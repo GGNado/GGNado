@@ -26,13 +26,6 @@
 ### 📈 GitHub Stats:
 <!-- Trovi più opzioni per personalizzare il tema delle statistiche qui: https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGNado&theme=radical)  
+
+    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GGNado&show_icons=true&theme=radical)
-
----
-
-### 💡 Fun Projects
-- 🎮 **Game Dev:** I love experimenting with game development
-- 📊 **Data Science:** Visualizing data in unique ways
-- 🌐 **Web Development:** Building responsive and dynamic sites
-
----
