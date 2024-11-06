@@ -44,6 +44,3 @@
 - 🌐 **Web Development:** Building responsive and dynamic sites
 
 ---
-
-### 🎶 Random Spotify Vibes
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=tuo-spotify-username&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/luigimassa2005)
