@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👨‍💻 About Me:
-- 🎓 I study Computer Engineering at the **Politecnico di Milano**.
+- 🎓 I study Computer Engineering at the **Polytechnic University of Milan**.
 - 🔧 I enjoy creating **plugins for Minecraft** and developing **WebApps with Spring**
 - 👥 I love collaborating on **open-source** projects and discovering new ideas
 - ⚡ Fun fact: I am a born problem-solver and I love databases! 🧩
