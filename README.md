@@ -36,7 +36,7 @@
 ---
 
 ### 🌟 Public Projects:
-- **CityScape Site**: A web application built using Java and Spring Boot. It provides a login and contact functionality with a visually appealing design. [CityScape Site](cityscape.vpsgh.it:8080)
+- **CityScape Site**: A web application built using Java and Spring Boot. It provides a login and contact functionality with a visually appealing design. [CityScape Site](http://cityscape.vpsgh.it:8080)
 - **Minecraft Plugins**: Various plugins developed for Minecraft to enhance gameplay and add new features. [Spigot](https://www.spigotmc.org/members/ggpernado.1498846/)
 
 ---
