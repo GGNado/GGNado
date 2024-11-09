@@ -33,6 +33,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just.luii_/)
 
-
 ---
 
+### 🌟 Public Projects:
+- **CityScape Site**: A web application built using Java and Spring Boot. It provides a login and contact functionality with a visually appealing design. [GitHub Repository](https://github.com/yourusername/cityscape-site)
+- **Minecraft Plugins**: Various plugins developed for Minecraft to enhance gameplay and add new features. [GitHub Repository](https://github.com/yourusername/minecraft-plugins)
+
+---
