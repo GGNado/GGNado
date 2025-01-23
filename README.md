@@ -14,14 +14,14 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,mysql,angular,html,css,arduino,maven,idea,clion,pycharm,sublime,linux,apple)](https://skillicons.dev)  
 
 ---
-
+<!--
 ### 📈 GitHub Stats:
 <!-- Trovi più opzioni per personalizzare il tema delle statistiche qui: https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGNado&theme=radical)  
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGNado&theme=radical)  
 
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GGNado&show_icons=true&theme=radical)
-
+-->
 ---
 
 ### 🌐 Connect with Me:
