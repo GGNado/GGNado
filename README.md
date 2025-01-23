@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGNado&layout=compact&theme=radical)  
 
     
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,mysql,html,css,arduino,maven,idea,clion,pycharm,sublime,linux,apple)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,mysql,angular,html,css,arduino,maven,idea,clion,pycharm,sublime,linux,apple)](https://skillicons.dev)  
 
 ---
 
