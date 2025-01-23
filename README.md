@@ -10,7 +10,6 @@
 ### 🛠️ Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGNado&layout=compact&theme=radical)  
 
-<h1>BLAAAA</h1>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,python,mysql,angular,html,css,arduino,maven,idea,clion,pycharm,sublime,linux,apple)](https://skillicons.dev) 
 
 ---
