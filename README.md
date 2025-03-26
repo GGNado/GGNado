@@ -1,5 +1,5 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=500&lines=Luigi+Massa;Computer+Engineering+Student;Back+End+lover)](https://git.io/typing-svg)
+
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=500&lines=Luigi+Massa;Computer+Engineering+Student;Back+End+lover)](https://git.io/typing-svg)
 
 ---
 
