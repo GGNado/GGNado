@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EC7F7&width=435&lines=Luigi+Massa;Back+End+Lover)](https://git.io/typing-svg)
+
 ### 👨‍💻 About Me:
 - 🎓 I study Computer Engineering at the **Polytechnic University of Milan**.
 - 🔧 I enjoy creating **plugins for Minecraft** and developing **WebApps with Spring**
