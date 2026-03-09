@@ -8,14 +8,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,c,cpp,python,mysql,angular,html,css,arduino,maven,idea,clion,pycharm,sublime,linux,apple)](https://skillicons.dev) 
 
 ---
-<!--
-### 📈 GitHub Stats:
-<!-- Trovi più opzioni per personalizzare il tema delle statistiche qui: https://github.com/anuraghazra/github-readme-stats -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGNado&theme=radical)  
 
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GGNado&show_icons=true&theme=radical)
--->
+### 📈 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGNado&theme=radical)  
+
 ### 🌐 Connect with Me:
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luigi-massa)
