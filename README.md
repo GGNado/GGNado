@@ -74,12 +74,12 @@ fun_fact: "Spesso lascio commenti coloriti in giro per il codice... poi li trovo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GGNado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GGNado&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GGNado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=GGNado&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" width="49%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGNado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GGNado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" width="42%" alt="Top Languages"/>
 
 </div>
 
@@ -89,7 +89,7 @@ fun_fact: "Spesso lascio commenti coloriti in giro per il codice... poi li trovo
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GGNado&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GGNado&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -113,7 +113,7 @@ fun_fact: "Spesso lascio commenti coloriti in giro per il codice... poi li trovo
 <!-- Activity Graph -->
 <div align="center">
 
-[![Luigi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GGNado&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Luigi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GGNado&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
