@@ -74,22 +74,14 @@ fun_fact: "Spesso lascio commenti coloriti in giro per il codice... poi li trovo
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GGNado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=GGNado&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" width="49%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GGNado&theme=tokyonight" width="49%" alt="Profile Details"/>
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GGNado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" width="42%" alt="Top Languages"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GGNado&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GGNado&theme=tokyonight" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GGNado&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GGNado&theme=tokyonight" width="32%" alt="Stats"/>
 
 </div>
 
